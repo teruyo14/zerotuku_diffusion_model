@@ -13,8 +13,8 @@
 
 公式コードは右のURLから( https://github.com/oreilly-japan/deep-learning-from-scratch-5 )
 
-[English]
-This is the fifth installment of the popular series. The theme this time is "Generative Models. In this book, the techniques from "Normal Distribution" to "Diffusion Model" are developed as a connected story. Readers will learn small lessons and implement them step by step, eventually completing an image generation AI like "Stable Diffusion". The fun of the technology is in the details--building from scratch, challenging the formulas.
+[English]  
+ This is the fifth installment of the popular series. The theme this time is "Generative Models. In this book, the techniques from "Normal Distribution" to "Diffusion Model" are developed as a connected story. Readers will learn small lessons and implement them step by step, eventually completing an image generation AI like "Stable Diffusion". The fun of the technology is in the details--building from scratch, challenging the formulas.
 
 1. normal distribution  
 2. maximum likelihood estimation  	
